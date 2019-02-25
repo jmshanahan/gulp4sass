@@ -12,5 +12,15 @@
     "browser-sync": "^2.26.3",
     "gulp": "^4.0.0",
     "gulp-sass": "^4.0.2"
-  }
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jmshanahan/gulp4sass.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/jmshanahan/gulp4sass/issues"
+  },
+  "homepage": "https://github.com/jmshanahan/gulp4sass#readme"
 }
